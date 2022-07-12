@@ -1,0 +1,25 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/azara.api/bin/Debug/net6.0
+/azara.api/obj
+/azara.logs/bin/Debug/net6.0
+/azara.logs/obj
+/azara.models/bin/Debug/net6.0
+/azara.models/obj
+/azara.notify/bin/Debug/net6.0
+/azara.notify/obj
+/azara.repository/bin/Debug/net6.0
+/azara.repository/obj
+/azara.security/bin/Debug/net6.0
+/azara.security/obj
+/azara.files/obj
+/azara.files/bin/Debug/net6.0
+/azara.client/bin/Debug/net6.0
+/azara.client/obj
+/azara.admin/bin/Debug/net6.0
+/azara.admin/obj
+/azara.common/obj
+/azara.common/bin/Debug/net6.0
